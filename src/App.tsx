@@ -330,7 +330,7 @@ const Portfolio = () => {
                                 animate={{ opacity: 1, y: 0 }}
                                 transition={{ delay: 0.2 }}
                             >
-                                Preet
+                                Pritam
                             </motion.span>
                         </h1>
                         <h2 className="hero-subtitle">
@@ -831,7 +831,7 @@ const Portfolio = () => {
                                     variants={fadeIn}
                                 >
                                     <label htmlFor="name" className="form-label">Your Name</label>
-                                    <input type="text" id="name" className="form-input" placeholder="Preet" />
+                                    <input type="text" id="name" className="form-input" placeholder="Pritam" />
                                 </motion.div>
                                 <motion.div 
                                     className="form-group"
@@ -1002,7 +1002,7 @@ const Portfolio = () => {
                 <div className="footer-container">
                     <div className="footer-content">
                         <div className="footer-brand">
-                            <h2 className="footer-logo">Preet</h2>
+                            <h2 className="footer-logo">Pritam</h2>
                             <p className="footer-tagline">Web & Mobile App Developer</p>
                         </div>
 
@@ -1065,7 +1065,7 @@ const Portfolio = () => {
 
                     <div className="footer-bottom">
                         <div className="copyright">
-                            © {new Date().getFullYear()} Preet. All rights reserved.
+                            © {new Date().getFullYear()} Pritam. All rights reserved.
                         </div>
 
                         <div className="footer-social-links">
